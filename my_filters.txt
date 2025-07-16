@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: My Custom Filters
+! Description: 自分用のカスタムフィルターリスト
+! Last Modified: 2025-07-16
+
+! ここから下にフィルターのルールを記述
 /^https?:\/\/automaton-media\.com\/wp-content\/uploads\/.*\/[^-]+\.jpg/$image
 ascii.jp###clubreco
 ascii.jp###footer
