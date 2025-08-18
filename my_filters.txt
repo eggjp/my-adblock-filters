@@ -54,6 +54,13 @@ automaton-media.com##.ct-sidebar
 automaton-media.com##.ct-sticky-container
 directshop.qoo10.jp##.btn.good_btn
 directshop.qoo10.jp##.btn.top_btn
+efight.jp###footer
+efight.jp###header
+efight.jp##.p-entry__pushLike
+efight.jp##.p-entry__tw-follow
+efight.jp##.sbm
+efight.jp##.sidebar.side-r
+efight.jp##.topicPath
 fnn.jp##.article-comment-wrap.\--share
 fnn.jp##.footer.l-footer.js-footer.js-ga-scroll.\--adjust
 fnn.jp##.l-sub-inner
@@ -101,6 +108,13 @@ gizmodo.jp##.l-ad
 gizmodo.jp##.l-generalContent-secondary
 gizmodo.jp##.p-videoContainer
 gizmodo.jp##.up-show
+gonkaku.jp###global-header
+gonkaku.jp###scroll-top-button
+gonkaku.jp###side
+gonkaku.jp##.footer-main
+gonkaku.jp##.menu-buttons
+gonkaku.jp##.module-social-buttons
+gonkaku.jp##.original-ad-area.bjj.bottom-margin
 hamusoku.com###_adr_abp_container_1
 hamusoku.com###_adr_abp_container_2
 hamusoku.com###_adr_abp_container_3
@@ -294,6 +308,15 @@ watch.impress.co.jp##.social.under2.social_button
 watch.impress.co.jp##.social.upper2.social_button
 watch.impress.co.jp##.tbl-explore-more-site-header
 watch.impress.co.jp##div[style="min-height: 250px;"]
+weekly.ascii.jp##.ads
+weekly.ascii.jp##.ads__inner.fixed
+weekly.ascii.jp##.bottom__articleList--left
+weekly.ascii.jp##.footer__inner--bottom
+weekly.ascii.jp##.footer__inner--top
+weekly.ascii.jp##.recommend
+weekly.ascii.jp##.slick-track
+weekly.ascii.jp##.snsTimeLine
+weekly.ascii.jp##.wrap__category
 yomiuri.co.jp##.layout-contents__sidebar
 yomiuri.co.jp##.ob-cards
 yomiuri.co.jp##.ob-widget-footer
@@ -303,5 +326,6 @@ yomiuri.co.jp##.p-header
 yomiuri.co.jp##.p-header-view
 yomiuri.co.jp##.p-selection
 ||automaton-media.com/wp-content/uploads/*_automaton_banner.jpg
+||facebook.com/v6.0/plugins/page.php
 ||gamespark.jp/base/images/insicdec_b.png
 ||gamespark.jp/base/images/spak_b.png
