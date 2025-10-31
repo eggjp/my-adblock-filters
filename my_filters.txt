@@ -1,10 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: My Custom Filters
 ! Description: 自分用のカスタムフィルターリスト
-! Last Modified: 2025-07-16
+! Last Modified: 2025-10-31
 
 ! ここから下にフィルターのルールを記述
 /^https?:\/\/automaton-media\.com\/wp-content\/uploads\/.*\/[^-]+\.jpg/$image
+47news.jp###copyright
+47news.jp##.col_side
+47news.jp##.headline_inner
+47news.jp##.item_social
+47news.jp##.kyujin_box
+47news.jp##.menu_inner
+47news.jp##.nav_inner
+47news.jp##.pr_area.pc.cls_90
+47news.jp##.side_inner
 4gamer.net###SOCIALBOOKMARK_BAR
 4gamer.net###SOCIALBOOKMARK_BOTTOM_BAR
 4gamer.net##.arrived
@@ -45,7 +54,9 @@ ascii.jp##.snsShare.ss--top
 ascii.jp##.twitBtn
 automaton-media.com###footer
 automaton-media.com###pc_all_header
+automaton-media.com###sidebar
 automaton-media.com##.addtoany_shortcode
+automaton-media.com##.ai-dynamic
 automaton-media.com##.ct-back-to-top
 automaton-media.com##.ct-header
 automaton-media.com##.ct-hidden-sm.ct-hidden-md
@@ -97,6 +108,12 @@ getnews.jp##.fb-b
 getnews.jp##.footer_partners
 getnews.jp##.get-header
 getnews.jp##.sn-b
+gigazine.net###header
+gigazine.net###latest
+gigazine.net###next-prev
+gigazine.net###sub
+gigazine.net##.navi-list-2col.comments
+gigazine.net##.rlcontents-s
 gizmodo.jp###bnBillboardCloseButton
 gizmodo.jp###browsi_adContainer_ai_2_ati_1_rc_0
 gizmodo.jp###uniweb--sdk-root
@@ -172,6 +189,7 @@ itmedia.co.jp###masterSocialbuttonTop
 itmedia.co.jp###masterSub
 itmedia.co.jp##.colBoxClear.h10px
 itmedia.co.jp##.colBoxClear.h20px
+itmedia.co.jp##.g_lnav
 itmedia.co.jp##.g_nav_box._flex
 itmedia.co.jp##.noad.delivery
 itmedia.co.jp##.up-show
@@ -195,6 +213,8 @@ jp.ign.com##.start
 jp.ign.com##.wrap
 jp.pronews.com##.articleShareSticky
 jp.pronews.com##.mainLayout-side
+k-tai.watch.impress.co.jp##.aff_header
+k-tai.watch.impress.co.jp##.aff_list_wrapper
 kuruma-news.jp###side-column
 lifehacker.jp###globalNav
 lifehacker.jp##[class*="article_pArticle_Sns__"]
@@ -210,6 +230,17 @@ macrumors.com###AdThrive_Content_1_desktop
 macrumors.com##.adthrive-ad.adthrive-content.adthrive-content-1.adthrive-ad-cls
 macrumors.com##.google-ad-manager-fallback-container
 macrumors.com##.sidebarblock
+news.denfaminicogamer.jp###dfng-jack
+news.denfaminicogamer.jp###footerLower
+news.denfaminicogamer.jp###footerUpper
+news.denfaminicogamer.jp###pageTopBtn
+news.denfaminicogamer.jp###pickup
+news.denfaminicogamer.jp###siteHeader
+news.denfaminicogamer.jp###subColumn
+news.denfaminicogamer.jp##.articleContent.categoryPickup
+news.denfaminicogamer.jp##.articleContent.column.recent
+news.denfaminicogamer.jp##.articleContent.topics
+news.denfaminicogamer.jp##div[style="display:flex;justify-content:center;margin:24px 0;min-height:250px;"]
 news.yahoo.co.jp###ad1
 news.yahoo.co.jp###ad2
 news.yahoo.co.jp###ad3
@@ -282,6 +313,18 @@ techno-edge.net##.main-share-block
 techno-edge.net##.main-share-head
 techno-edge.net##.special-list
 techno-edge.net##.thm-aside-inner
+togetter.com###footer
+togetter.com###gototop
+togetter.com###header
+togetter.com###right_wrap_middle
+togetter.com###social_floating_box
+togetter.com###tg_pc_title_bottom_left
+togetter.com##.ad_custom
+togetter.com##.gototop
+togetter.com##.lazy-dfp
+togetter.com##.right_wrap
+togetter.com##.social_floating_box
+togetter.com##.thumb_list_box
 watch.impress.co.jp###category-nav
 watch.impress.co.jp###footer
 watch.impress.co.jp###forest-amazon-ranking
@@ -329,3 +372,4 @@ yomiuri.co.jp##.p-selection
 ||facebook.com/v6.0/plugins/page.php
 ||gamespark.jp/base/images/insicdec_b.png
 ||gamespark.jp/base/images/spak_b.png
+||news.denfaminicogamer.jp/wp-content/uploads/2025/*/*.webp
