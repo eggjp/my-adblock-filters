@@ -226,6 +226,13 @@ lifehacker.jp##div[class^="articles_pArticles_Item__"]
 lifehacker.jp##div[class^="breadcrumbs_stBreadcrumbs_List__"]
 lifehacker.jp##div[class^="displayhandler_lg__"]
 lifehacker.jp##div[class^="regular_sRegular_List__"]
+macotakara.jp##.c-grid__sub
+macotakara.jp##.footer-bottom
+macotakara.jp##.header
+macotakara.jp##.header-wrap
+macotakara.jp##.js-rotation-banner.p-rotation-banner
+macotakara.jp##.serial-nav-list
+macotakara.jp##.topicpath
 macrumors.com###AdThrive_Content_1_desktop
 macrumors.com##.adthrive-ad.adthrive-content.adthrive-content-1.adthrive-ad-cls
 macrumors.com##.google-ad-manager-fallback-container
