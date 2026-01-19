@@ -79,6 +79,7 @@ fnn.jp##.ob-widget-header
 fnn.jp##.ob-widget-items-container
 fnn.jp##.ob_what
 forest.watch.impress.co.jp##.ad.middle.under
+fukumado.jp##._footer_7vutx_1
 gamemakers.jp###str-footer
 gamemakers.jp##.flex-c.j-s.l-home-colums-inner-sticky-inner
 gamemakers.jp##.l-article-header-follow-sns.flex.a-c.j-c.is-sp-hide.active
@@ -244,6 +245,7 @@ news.denfaminicogamer.jp###pageTopBtn
 news.denfaminicogamer.jp###pickup
 news.denfaminicogamer.jp###siteHeader
 news.denfaminicogamer.jp###subColumn
+news.denfaminicogamer.jp###tj
 news.denfaminicogamer.jp##.articleContent.categoryPickup
 news.denfaminicogamer.jp##.articleContent.column.recent
 news.denfaminicogamer.jp##.articleContent.topics
@@ -311,6 +313,7 @@ sankei.com##iframe[src*="outbrain"]
 sankei.com##ins.adsbygoogle
 techno-edge.net###danglingLink
 techno-edge.net###danglingList
+techno-edge.net##.af_box
 techno-edge.net##.breadcrumb
 techno-edge.net##.footer-main
 techno-edge.net##.header-wrapper.cf
@@ -318,8 +321,10 @@ techno-edge.net##.main-amazon-ranking
 techno-edge.net##.main-membership.show-log-out
 techno-edge.net##.main-share-block
 techno-edge.net##.main-share-head
+techno-edge.net##.pc-youtube-shorts
 techno-edge.net##.special-list
 techno-edge.net##.thm-aside-inner
+techno-edge.net##div[style="text-align:center;display:inline-block;width:100%;height:100px;margin:0 0 -10px 0;background: #191c39;"]
 togetter.com###footer
 togetter.com###gototop
 togetter.com###header
@@ -380,3 +385,4 @@ yomiuri.co.jp##.p-selection
 ||gamespark.jp/base/images/insicdec_b.png
 ||gamespark.jp/base/images/spak_b.png
 ||news.denfaminicogamer.jp/wp-content/uploads/2025/*/*.webp
+||news.denfaminicogamer.jp/wp-content/uploads/2026/*/*.webp
