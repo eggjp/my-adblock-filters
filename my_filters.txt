@@ -238,6 +238,7 @@ macrumors.com###AdThrive_Content_1_desktop
 macrumors.com##.adthrive-ad.adthrive-content.adthrive-content-1.adthrive-ad-cls
 macrumors.com##.google-ad-manager-fallback-container
 macrumors.com##.sidebarblock
+news.denfaminicogamer.jp###amazon-random
 news.denfaminicogamer.jp###dfng-jack
 news.denfaminicogamer.jp###footerLower
 news.denfaminicogamer.jp###footerUpper
@@ -249,6 +250,8 @@ news.denfaminicogamer.jp###tj
 news.denfaminicogamer.jp##.articleContent.categoryPickup
 news.denfaminicogamer.jp##.articleContent.column.recent
 news.denfaminicogamer.jp##.articleContent.topics
+news.denfaminicogamer.jp##.iw-header
+news.denfaminicogamer.jp##.iw-inner
 news.denfaminicogamer.jp##div[style="display:flex;justify-content:center;margin:24px 0;min-height:250px;"]
 news.yahoo.co.jp###ad1
 news.yahoo.co.jp###ad2
@@ -297,6 +300,7 @@ rocketnews24.com##.ranking
 sankei.com##.ad-area
 sankei.com##.adsbygoogle
 sankei.com##.banner-area
+sankei.com##.kyujinbox.kyujinbox--sankei
 sankei.com##.ob-grid-layout
 sankei.com##.ob-widget
 sankei.com##.ob-widget-items-container
