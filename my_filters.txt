@@ -4,6 +4,7 @@
 ! Last Modified: 2026-11-14
 
 ! ここから下にフィルターのルールを記述
+##a[href*="trafficgate.net"] img
 47news.jp###copyright
 47news.jp##.col_side
 47news.jp##.headline_inner
@@ -15,6 +16,8 @@
 47news.jp##.side_inner
 4gamer.net###SOCIALBOOKMARK_BAR
 4gamer.net###SOCIALBOOKMARK_BOTTOM_BAR
+4gamer.net##.JS_BANNER.contents_bottom_pr
+4gamer.net##.V2_global_navi
 4gamer.net##.arrived
 4gamer.net##.class1
 4gamer.net##.finding
@@ -23,12 +26,18 @@
 4gamer.net##.footer_middle
 4gamer.net##.g123_ranking_ad
 4gamer.net##.header
-4gamer.net##.JS_BANNER.contents_bottom_pr
 4gamer.net##.left_contents
 4gamer.net##.right_contents
 4gamer.net##.title
-4gamer.net##.V2_global_navi
 ai.watch.impress.co.jp###aiw-amazon-ranking
+asahi.com##.FeatureList
+asahi.com##.FeaturePhotoList
+asahi.com##.FlyUX
+asahi.com##.I41E8
+asahi.com##.JLWfO
+asahi.com##.YSF7n
+asahi.com##.egIu8
+asahi.com##.n2Ckq
 ascii.jp###clubreco
 ascii.jp###footer
 ascii.jp###header
@@ -52,6 +61,7 @@ ascii.jp##.snsFollow
 ascii.jp##.snsShare.ss--bottom
 ascii.jp##.snsShare.ss--top
 ascii.jp##.twitBtn
+ascii.jp##footer
 automaton-media.com###footer
 automaton-media.com###pc_all_header
 automaton-media.com###sidebar
@@ -202,24 +212,24 @@ itainews.com##.recent_article_ranking
 itainews.com##.related-articles
 itainews.com##.side-navi
 itainews.com##.social-buttons
-itmedia.co.jp###articleBottomKeyman
 itmedia.co.jp###BelowArtLink
+itmedia.co.jp###ITADS
+itmedia.co.jp###InRead
+itmedia.co.jp###articleBottomKeyman
+itmedia.co.jp###div-gpt-ad-PC_BelowArtLink_2
+itmedia.co.jp###div-gpt-ad-PC_BelowArtLink_headline
 itmedia.co.jp###div-gpt-ad-PC_above-art-SpecialLink
+itmedia.co.jp###div-gpt-ad-PC_article_Text_1
+itmedia.co.jp###div-gpt-ad-PC_article_Text_2
 itmedia.co.jp###div-gpt-ad-PC_article_below-art-Rectangle_left
 itmedia.co.jp###div-gpt-ad-PC_article_below-art-Rectangle_right
 itmedia.co.jp###div-gpt-ad-PC_article_bottom-Rectangle_right
-itmedia.co.jp###div-gpt-ad-PC_article_Text_1
-itmedia.co.jp###div-gpt-ad-PC_article_Text_2
-itmedia.co.jp###div-gpt-ad-PC_BelowArtLink_2
-itmedia.co.jp###div-gpt-ad-PC_BelowArtLink_headline
 itmedia.co.jp###endlink-lnk2
 itmedia.co.jp###endlink-lnk3
 itmedia.co.jp###g_nav_i
 itmedia.co.jp###globalFooter
 itmedia.co.jp###globalFooterCorp
 itmedia.co.jp###globalFooterLink
-itmedia.co.jp###InRead
-itmedia.co.jp###ITADS
 itmedia.co.jp###masterSocialbuttonBtm
 itmedia.co.jp###masterSocialbuttonTop
 itmedia.co.jp###masterSub
@@ -280,9 +290,9 @@ kuruma-news.jp##[id^="div-gpt-ad-"]
 lifehacker.jp###globalNav
 lifehacker.jp##[class*="article_pArticle_Sns__"]
 lifehacker.jp##[class*="articles_pArticles_Title__"]
-lifehacker.jp##div[class^="article_pArticle_mailMagazine_formContent__"]
 lifehacker.jp##div[class^="article_pArticle_Sns__"]
 lifehacker.jp##div[class^="article_pArticle_Title__"]
+lifehacker.jp##div[class^="article_pArticle_mailMagazine_formContent__"]
 lifehacker.jp##div[class^="articles_pArticles_Item__"]
 lifehacker.jp##div[class^="breadcrumbs_stBreadcrumbs_List__"]
 lifehacker.jp##div[class^="displayhandler_lg__"]
@@ -313,6 +323,7 @@ news.denfaminicogamer.jp##.articleContent.column.recent
 news.denfaminicogamer.jp##.articleContent.topics
 news.denfaminicogamer.jp##.iw-header
 news.denfaminicogamer.jp##.iw-inner
+news.denfaminicogamer.jp##div[id^="fs-"].fade
 news.denfaminicogamer.jp##div[style="display:flex;justify-content:center;margin:24px 0;min-height:250px;"]
 news.mynavi.jp##.modal-content
 news.mynavi.jp##.modal-content_close.js-modal-close
@@ -360,8 +371,8 @@ nlab.itmedia.co.jp##.nlab_ogpcard_link
 nlab.itmedia.co.jp##.relative.z-headerMenu.md\:h-20.bg-white.before\:hidden.md\:before\:block.before\:absolute.before\:w-full.before\:h-\[3px\].before\:bg-key.before\:top-0.before\:left-0
 nlab.itmedia.co.jp##.side.md\:w-\[336px\].static
 phileweb.com###footer
-phileweb.com###header
 phileweb.com###headNavi
+phileweb.com###header
 phileweb.com###sidebar
 phileweb.com###sitemapWrapper
 phileweb.com###sp_article_header
@@ -383,6 +394,9 @@ rocketnews24.com##.ranking
 sankei.com##.ad-area
 sankei.com##.adsbygoogle
 sankei.com##.banner-area
+sankei.com##.grid__column.layout-footer-spacing
+sankei.com##.gtm-click.small-button.font-bold
+sankei.com##.gtm-click.small-button.small-button-blue.font-bold
 sankei.com##.kyujinbox.kyujinbox--sankei
 sankei.com##.ob-grid-layout
 sankei.com##.ob-widget
@@ -401,6 +415,7 @@ sankei.com##ins.adsbygoogle
 smhn.info###breadcrumbs
 smhn.info###secondary
 smhn.info###share
+smhn.info###wallpaper_in_ads
 smhn.info##.box.half
 smhn.info##.entry-footer
 smhn.info##.menu
@@ -409,6 +424,8 @@ smhn.info##.smhn-timeline
 smhn.info##.the_tags
 smhn.info##footer
 smhn.info##header
+smhn.info#?#.entry-content > div:-abp-has(> div:-abp-contains([AD]))
+smhn.info#?#aside:-abp-has(ins.adsbygoogle)
 techno-edge.net###danglingLink
 techno-edge.net###danglingList
 techno-edge.net##.af_box
