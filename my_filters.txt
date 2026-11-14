@@ -1,10 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: My Custom Filters
 ! Description: 自分用のカスタムフィルターリスト
-! Last Modified: 2025-10-31
+! Last Modified: 2026-11-14
 
 ! ここから下にフィルターのルールを記述
-/^https?:\/\/automaton-media\.com\/wp-content\/uploads\/.*\/[^-]+\.jpg/$image
 47news.jp###copyright
 47news.jp##.col_side
 47news.jp##.headline_inner
@@ -493,8 +492,6 @@ yomiuri.co.jp##.p-selection
 ||gsspat.jp^
 ||html-load.com^
 ||microad.jp^
-||news.denfaminicogamer.jp/wp-content/uploads/2025/*/*.webp
-||news.denfaminicogamer.jp/wp-content/uploads/2026/*/*.webp
 ||news.denfaminicogamer.jp/wp-content/uploads/pa-banners/*.webp
 ||news.mynavi.jp/assets/techplus/techpopbanner-bottom-95921d5bd01900cb3dc7bbd7ac362f4ecd178b39c1f00917680a166846be8a98.png
 ||news.mynavi.jp/assets/techplus/techpopbanner-upper-ea9b57f7e68f890d99809eb25fb53b139d18ed144a0d419f0574cff7f5880dc1.png
