@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: My Custom Filters
 ! Description: 自分用のカスタムフィルターリスト
-! Last Modified: 2026-11-14
+! Last Modified: 2026-11-26
 
 ! ここから下にフィルターのルールを記述
 ##a[href*="trafficgate.net"] img
@@ -212,6 +212,7 @@ itainews.com##.recent_article_ranking
 itainews.com##.related-articles
 itainews.com##.side-navi
 itainews.com##.social-buttons
+itainews.com#$##commentbody div.commenttext { font-family: "BIZ UDPGothic", "Yu Gothic UI", "Yu Gothic", sans-serif !important; font-weight: normal !important; }
 itmedia.co.jp###BelowArtLink
 itmedia.co.jp###ITADS
 itmedia.co.jp###InRead
