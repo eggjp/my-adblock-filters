@@ -215,8 +215,8 @@ itainews.com##.social-buttons
 itainews.com#$#.commenttext { font-family: "Noto Serif JP", "Noto Serif CJK JP", "Yu Mincho", serif !important; font-weight: 500 !important; font-size: 18px !important; line-height: 1.8 !important; }
 itainews.com#$#.trackbacktext { font-family: "Noto Serif JP", "Noto Serif CJK JP", "Yu Mincho", serif !important; font-weight: 500 !important; font-size: 18px !important; line-height: 1.8 !important; }
 itainews.com#$#h3.title { font-family: "Noto Serif JP", "Noto Serif CJK JP", "Yu Mincho", serif !important; }
-itainews.com#$#.aa3 .t_b { font-family: "Noto Serif JP", "Noto Serif CJK JP", "Yu Mincho", serif !important; font-weight: 500 !important; font-size: 18px !important; line-height: 1.8 !important; }
-itainews.com#$#.aa3 .t_h { font-family: "Noto Serif JP", "Noto Serif CJK JP", "Yu Mincho", serif !important; }
+itainews.com#$#.t_b { font-family: "Noto Serif JP", "Noto Serif CJK JP", "Yu Mincho", serif !important; font-weight: 500 !important; font-size: 18px !important; line-height: 1.8 !important; }
+itainews.com#$#.t_h { font-family: "Noto Serif JP", "Noto Serif CJK JP", "Yu Mincho", serif !important; }
 itmedia.co.jp###BelowArtLink
 itmedia.co.jp###ITADS
 itmedia.co.jp###InRead
