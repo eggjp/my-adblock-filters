@@ -213,6 +213,8 @@ itainews.com##.related-articles
 itainews.com##.side-navi
 itainews.com##.social-buttons
 itainews.com#$##commentbody div.commenttext { font-family: "Noto Sans JP", "Yu Gothic UI", "Hiragino Kaku Gothic ProN", sans-serif !important; font-weight: 500 !important; font-size: 16px !important; line-height: 1.8 !important; }
+itainews.com#$#.aa3 .t_b { font-family: "Noto Sans JP", "Yu Gothic UI", sans-serif !important; font-weight: 500 !important; font-size: 16px !important; line-height: 1.8 !important; }
+itainews.com#$#.aa3 .t_h { font-family: "Noto Sans JP", "Yu Gothic UI", sans-serif !important; }
 itmedia.co.jp###BelowArtLink
 itmedia.co.jp###ITADS
 itmedia.co.jp###InRead
