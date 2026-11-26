@@ -192,6 +192,8 @@ hamusoku.com##.related-articles
 hamusoku.com##.social-buttons
 hamusoku.com##.topbox
 hamusoku.com##a[href="https://twitter.com/hamusoku"]
+hamusoku.com#$#.article-body { font-family: "Noto Serif JP", "Noto Serif CJK JP", "Yu Mincho", serif !important; }
+hamusoku.com#$#.article-body span[style*="3300FF"] span { font-weight: 600 !important; font-size: 18px !important; line-height: 1.8 !important; }
 itainews.com###articlebottom
 itainews.com###articletop
 itainews.com###ldblog_related_articles_725d2e44_18625
